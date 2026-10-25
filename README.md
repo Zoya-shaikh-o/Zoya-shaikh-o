@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zoya Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Zoya Shaikh </h1>
 <h3 align="center">Robotics, automation, electronics, and a lot of experimenting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoya-shaikh-o&label=Profile%20views&color=0e75b6&style=flat" alt="zoya-shaikh-o" /> </p>
