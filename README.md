@@ -1,42 +1,195 @@
-<h1 align="center">Hi 👋, I'm Zoya Shaikh </h1>
-<h3 align="center">Robotics, automation, electronics, and a lot of experimenting.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoya-shaikh-o&label=Profile%20views&color=0e75b6&style=flat" alt="zoya-shaikh-o" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoya-shaikh-o" alt="zoya-shaikh-o" /></a> </p>
+# Zoya Shaikh
 
-- 🔭 I’m currently working on **DrainWatch, a smart drain blockage monitoring system, and GlitchVerse, a 3D puzzle-adventure game**
+### Robotics & Automation • Electronics • IoT
 
-- 🌱 I’m currently learning **Robotics & Automation, Python, electronics, sensors, embedded systems, and 3D game development.**
+**Curious about how things work. Even more curious about how to make them work better.**
 
-- 👯 I’m looking to collaborate on **Robotics, automation, IoT, cybersecurity, and creative tech projects that solve real problems**
-
-- 🤝 I’m looking for help with **Embedded systems, robotics integration, electronics, and turning project ideas into working prototypes**
-
-- 👨‍💻 All of my projects are available at [https://zoya-shaikh.netlify.app](https://zoya-shaikh.netlify.app)
-
-- 💬 Ask me about **Robotics, automation, project ideas, hackathons, game development, and the things I'm experimenting with.**
-
-- 📫 How to reach me **zoeyshaikh2007@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/zoya-shaikh-a7270b350/](https://www.linkedin.com/in/zoya-shaikh-a7270b350/)
-
-- ⚡ Fun fact **I have a very complicated relationship with the concept of normal.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zoya shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoya shaikh" height="30" width="40" /></a>
-<a href="https://instagram.com/@zoyaamoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zoyaamoya" height="30" width="40" /></a>
-<a href="https://medium.com/@zoeyshaikh2007d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zoeyshaikh2007d" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zoyamoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zoyamoya" height="30" width="40" /></a>
-<a href="https://discord.gg/nvmzoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nvmzoya" height="30" width="40" /></a>
+<p>
+  <a href="https://zoya-shaikh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-8B7CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/zoya-shaikh-a7270b350/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:zoeyshaikh2007@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=Zoya-shaikh-o&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoya-shaikh-o&show_icons=true&locale=en&layout=compact" alt="zoya-shaikh-o" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoya-shaikh-o&show_icons=true&locale=en" alt="zoya-shaikh-o" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoya-shaikh-o&" alt="zoya-shaikh-o" /></p>
+## `whoami` 👩‍💻
+
+Hey! I'm **Zoya**, a Direct Second Year B.Tech student in **Robotics & Automation**, with a diploma background in Computer Engineering.
+
+I'm interested in the space where software meets the physical world. Think robotics, electronics, sensors, automation, connected devices, and ideas that can turn into something practical.
+
+I'm still learning, experimenting, and figuring things out one project at a time. I like understanding how things work behind the scenes instead of just using them.
+
+- 🔭 **Currently exploring:** Robotics, electronics, sensors, Python, embedded systems, and IoT
+- 🛠️ **Working on:** DrainWatch and other hands-on project ideas
+- 📐 **Designing with:** SolidWorks and 3D modelling
+- 🤝 **Open to collaborating on:** Robotics, automation, IoT, electronics, and interdisciplinary projects
+- 💡 **Ask me about:** Project ideas, robotics, automation, hackathons, and things I'm experimenting with
+- ⚡ **Fun fact:** I have a complicated relationship with the concept of normal.
+
+## Things I've been working on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 DrainWatch
+
+**Smart Drain Monitoring Concept**
+
+Exploring a low-cost way to monitor water levels and identify potential drain blockage risks through sensor readings, alerts, and a dashboard.
+
+**Focus areas:** Sensors, ESP32 concepts, data visualization, monitoring, and alert logic.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌀 GlitchVerse
+
+**3D Puzzle-Adventure Game**
+
+A hackathon project built around exploring a fractured world, shifting dimensions, and solving environmental challenges.
+
+<a href="https://github.com/Zoya-shaikh-o/Glitch_Verse">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View GlitchVerse repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Robotic Arm
+
+**3D CAD Design**
+
+A robotic arm model designed in SolidWorks, exploring mechanical structure, component design, and the world of robotics.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Auto Mute
+
+**Zone-Aware Mobile App Concept**
+
+A Flutter project exploring location-based reminders to switch a phone to Silent or Vibrate in places such as libraries, hospitals, and theatres.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://zoya-shaikh.netlify.app">
+    <img src="https://img.shields.io/badge/Explore_More_Projects-8B7CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore more projects"/>
+  </a>
+</p>
+
+## 🧰 Languages, tools & technologies
+
+The following icons preserve the technologies from my original profile. Some are tools I've explored or used in projects, while others represent areas I'm learning about. My stack will keep evolving as I gain experience.
+
+### Programming languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,kotlin,php,js,ts&perline=9" alt="Python, C, C++, C#, Java, Kotlin, PHP, JavaScript, TypeScript"/>
+</p>
+
+### Robotics, electronics & mobile development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab,opencv,flutter,dart,android,reactnative&perline=9" alt="Arduino, MATLAB, OpenCV, Flutter, Dart, Android, React Native"/>
+</p>
+
+### Web development & frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,nextjs,nodejs,express,django,flask,nestjs,tailwind&perline=9" alt="HTML, CSS, Bootstrap, Angular, React, Next.js, Node.js, Express, Django, Flask, NestJS, Tailwind CSS"/>
+</p>
+
+### Databases & data science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase,pytorch,tensorflow,sklearn,pandas&perline=9" alt="MySQL, MongoDB, SQLite, PostgreSQL, Firebase, PyTorch, TensorFlow, Scikit-learn, Pandas"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" height="45" alt="MariaDB"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="Microsoft SQL Server"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+</p>
+
+### Cloud, DevOps & development tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,azure,gcp,jenkins,nginx,figma,framer&perline=9" alt="Git, GitHub, Linux, Docker, Kubernetes, AWS, Azure, Google Cloud, Jenkins, Nginx, Figma, Framer"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45" height="45" alt="Oracle"/>
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="45" height="45" alt="Selenium"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" width="45" height="45" alt="NativeScript"/>
+</p>
+
+### Other technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,docker,firebase,flutter,framer,gcp,kubernetes,matlab,mongodb,mysql,opencv,pytorch,react,tailwind,tensorflow&perline=9" alt="Additional technology icons"/>
+</p>
+
+**Core interests:** Robotics · Automation · Electronics · Sensors · Embedded Systems · IoT · CAD · Practical Prototyping
+
+## 📊 GitHub overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zoya-shaikh-o&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoya-shaikh-o&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Zoya-shaikh-o&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 📈 Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoya-shaikh-o&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+
+</div>
+
+## 🌐 Find me around the internet
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zoya-shaikh-a7270b350/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Zoya-shaikh-o">
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/zoyaamoya/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="42" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/nvmzoya">
+    <img src="https://skillicons.dev/icons?i=discord" width="42" alt="Discord"/>
+  </a>
+</p>
+
+- 💼 **Portfolio:** [zoya-shaikh.netlify.app](https://zoya-shaikh.netlify.app)
+- 💻 **GitHub:** [@Zoya-shaikh-o](https://github.com/Zoya-shaikh-o)
+- 🧠 **LeetCode:** [zoyamoya](https://leetcode.com/zoyamoya/)
+- ✍️ **Medium:** [@zoeyshaikh2007d](https://medium.com/@zoeyshaikh2007d)
+- 📧 **Email:** [zoeyshaikh2007@gmail.com](mailto:zoeyshaikh2007@gmail.com)
+
+---
+
+<div align="center">
+
+### Still curious. Still learning. Still figuring things out.
+
+<sub>Built with curiosity, caffeine, and a few too many open tabs.</sub>
+
+</div>
